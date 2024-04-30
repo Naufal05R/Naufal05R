@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufal05r&label=Profile%20views&color=0e75b6&style=flat" alt="naufal05r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal05r" alt="naufal05r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal05r&margin-w=15&margin-h=15" alt="naufal05r" /></a> </p>
 
 - 🔭 I’m currently working on [LEGENDA PERMATA](https://github.com/Naufal05R/LEGENDA_PERMATA)
 
