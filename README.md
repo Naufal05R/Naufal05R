@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal05r&margin-w=15&margin-h=15&column=-1&theme=juicyfresh" alt="naufal05r" /></a> </p>
 
+<a href="https://app.daily.dev/naufalrabbani"><img src="https://api.daily.dev/devcards/v2/Ao1Zg04HGIALlmTLMA0UN.png?type=default&r=gg5" width="356" alt="Naufal Rabbani's Dev Card"/></a>
+
 - 🔭 I’m currently working on [LEGENDA PERMATA](https://github.com/Naufal05R/LEGENDA_PERMATA)
 
 - 🌱 I’m currently learning **ThreeJS and MongoDB**
