@@ -7,25 +7,25 @@
 
 <a href="https://app.daily.dev/naufalrabbani"><img src="https://api.daily.dev/devcards/v2/Ao1Zg04HGIALlmTLMA0UN.png?type=default&r=gg5" width="356" alt="Naufal Rabbani's Dev Card"/></a>
 
-- 🔭 I’m currently working on [LEGENDA PERMATA](https://github.com/Naufal05R/LEGENDA_PERMATA)
+- 🔭 I’m currently working on [NEUROMAGE](https://neuromage.naufalrabbani.com)
 
 - 🌱 I’m currently learning **ThreeJS and MongoDB**
 
-- 👯 I’m looking to collaborate on [LEGENDA PERMATA](https://github.com/Naufal05R/LEGENDA_PERMATA)
+- 👯 I’m looking to collaborate on [NEUROMAGE](https://neuromage.naufalrabbani.com)
 
-- 🤝 I’m looking for help with [LEGENDA PERMATA](https://github.com/Naufal05R/LEGENDA_PERMATA)
+- 🤝 I’m looking for help with [NEUROMAGE](https://neuromage.naufalrabbani.com)
 
-- 👨‍💻 All of my projects are available at [naufal-rabbani.vercel.app](naufal-rabbani.vercel.app)
+- 👨‍💻 All of my projects are available at [naufalrabbani.com](naufalrabbani.com)
 
-- 📝 I regularly write articles on [naufal-rabbani.vercel.app](naufal-rabbani.vercel.app)
+- 📝 I regularly write articles on [naufalrabbani.com](naufalrabbani.com)
 
 - 💬 Ask me about **JavaScript, TailwindCSS, React, Redux, TypeScript, NextJS and Firebase**
 
-- 📫 How to reach me **naufalrabbaniishere@gmail.com**
+- 📫 How to reach me [**naufalrabbaniishere@gmail.com**](mailto:naufalrabbaniishere@gmail.com)
 
-- 📄 Know about my experiences [naufal-rabbani.vercel.app](naufal-rabbani.vercel.app)
+- 📄 Know about my experiences [naufalrabbani.com](naufalrabbani.com)
 
-- ⚡ Fun fact **I think I'm Genius 😎 xD**
+- ⚡ Fun fact **Code is never lie. It's mean, if you're lier you'll never be able to code 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
