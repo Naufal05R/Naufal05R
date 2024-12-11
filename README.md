@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [naufalrabbani.com](naufalrabbani.com)
 
-- 💬 Ask me about **JavaScript, TailwindCSS, React, Redux, TypeScript, NextJS and Firebase**
+- 💬 Ask me about **JavaScript, TailwindCSS, React, Redux, TypeScript, NextJS, Postgres, Prisma, Firebase**
 
 - 📫 How to reach me [**naufalrabbaniishere@gmail.com**](mailto:naufalrabbaniishere@gmail.com)
 
