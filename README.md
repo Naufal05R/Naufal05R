@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [NEUROMAGE](https://neuromage.naufalrabbani.com)
 
-- 👨‍💻 All of my projects are available at [naufalrabbani.com](naufalrabbani.com)
+- 👨‍💻 All of my projects are available at [naufalrabbani.com](https://naufalrabbani.com)
 
-- 📝 I regularly write articles on [naufalrabbani.com](naufalrabbani.com)
+- 📝 I regularly write articles on [naufalrabbani.com](https://naufalrabbani.com)
 
 - 💬 Ask me about **JavaScript, TailwindCSS, React, Redux, TypeScript, NextJS, Postgres, Prisma, Firebase**
 
 - 📫 How to reach me [**naufalrabbaniishere@gmail.com**](mailto:naufalrabbaniishere@gmail.com)
 
-- 📄 Know about my experiences [naufalrabbani.com](naufalrabbani.com)
+- 📄 Know about my experiences [naufalrabbani.com](https://naufalrabbani.com)
 
 - ⚡ Fun fact **Code is never lie. It's mean, if you're lier you'll never be able to code 😎**
 
