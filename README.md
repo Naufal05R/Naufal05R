@@ -11,7 +11,7 @@
 
 - 💻 Started the journey as a software developer since 2022
 
-- 📋 Fell in love with codes and enthusiast with the newest & latest technology. Self-taught on learning major tech stack
+- 📋 Fell in love with codes and enthusiast with the newest & latest technology. Self-taught on learning [React](https://react.dev) & [NextJS](https://nextjs.org)
 
 - 🐧 Familiar on both Mac & Linux as my daily driver OS
 
