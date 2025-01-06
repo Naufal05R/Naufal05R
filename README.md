@@ -11,6 +11,8 @@
 
 - 📋 Fell in love with codes and enthusiast with the newest & latest technology. Self-taught on learning [React](https://react.dev) & [NextJS](https://nextjs.org)
 
+- 🏆 Expertise in Javascript & Typescript programming language. Building the entire application without using a single `any` data type.
+
 - 🐧 Familiar on both Mac & Linux as my daily driver OS
 
 <h3 align="left">🔗 Connect with me</h3>
