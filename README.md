@@ -31,6 +31,7 @@
 	<code><a href="https://www.typescriptlang.org" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></a></code>
 	<code><a href="https://framer.com" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" title="Framer"/></a></code>
 	<code><a href="https://motion.dev" target="_blank"><img width="50" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/motion.svg" alt="Motion" title="Motion"/></a></code>
+	<code><a href="https://tailwindcss.com" target="_blank"><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS"/></a></code>
 </p>
 
 <div align="center">
