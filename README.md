@@ -36,7 +36,7 @@
 	<code><a href="https://nodejs.org" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" title="NodeJS"/></a></code>
 	<code><a href="https://jestjs.io" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" title="Jest"/></a></code>
 	<code><a href="https://cypress.io" target="_blank"><img width="50" src="https://github.com/user-attachments/assets/e6d7d98d-2e28-4a92-ad67-39f92f15a146" alt="Cypress" title="Cypress"/></a></code>
-	<code><a href="https://www.postgresql.org" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" title="Postgres"/></
+	<code><a href="https://www.postgresql.org" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" title="Postgres"/></code>
 </p>
 
 
