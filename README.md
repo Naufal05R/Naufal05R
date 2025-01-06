@@ -1,29 +1,19 @@
-<h1 align="center">Hello everyone 👋</h1>
-<h3 align="center">I'm Naufal Rabbani, a passionate Full-Stack Web Developer from Indonesia</h3>
+<h1 align="left">Hello everyone 👋</h1>
+<h3 align="left">I'm Naufal Rabbani, a passionate Full-Stack Web Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufal05r&label=Profile%20views&color=0e75b6&style=flat" alt="naufal05r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal05r&margin-w=15&margin-h=15&column=-1&theme=juicyfresh" alt="naufal05r" /></a> </p>
 
-- 🔭 I’m currently working in the tech industry with [Monster Data Asia](https://monsterdata.asia) Company
+<h3 align="left">✨ A little bit about Me ✨</h3>
 
-- 🌱 I’m currently learning **ThreeJS and MongoDB**
+- 🧑🏻‍💻 I’m currently working in the tech industry with [Monster Data Asia](https://monsterdata.asia) Company
 
-- 👯 I’m looking to collaborate on [NEUROMAGE](https://neuromage.naufalrabbani.com)
+- 💻 Started the journey as a software developer since 2022
 
-- 🤝 I’m looking for help with [NEUROMAGE](https://neuromage.naufalrabbani.com)
+- 📋 Fell in love with codes and enthusiast with the newest & latest technology. Self-taught on learning major tech stack
 
-- 👨‍💻 All of my projects are available at [naufalrabbani.com](https://naufalrabbani.com)
-
-- 📝 I regularly write articles on [naufalrabbani.com](https://naufalrabbani.com)
-
-- 💬 Ask me about **JavaScript, TailwindCSS, React, Redux, TypeScript, NextJS, Postgres, Prisma, Firebase**
-
-- 📫 How to reach me [**naufalrabbaniishere@gmail.com**](mailto:naufalrabbaniishere@gmail.com)
-
-- 📄 Know about my experiences [naufalrabbani.com](https://naufalrabbani.com)
-
-- ⚡ Fun fact **Code is never lie. It's mean, if you're lier you'll never be able to code 😎**
+- 🐧 Familiar on both Mac & Linux as my daily driver OS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
