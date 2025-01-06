@@ -34,6 +34,7 @@
 	<code><a href="https://tailwindcss.com" target="_blank"><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS"/></a></code>
 	<code><a href="https://redux.js.org" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" title="Redux"/></a></code>
 	<code><a href="https://nodejs.org" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" title="NodeJS"/></a></code>
+	<code><a href="https://jestjs.io" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" title="Jest"/></a></code>
 </p>
 
 <div align="center">
