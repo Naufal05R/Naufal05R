@@ -32,6 +32,7 @@
 	<code><a href="https://framer.com" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" title="Framer"/></a></code>
 	<code><a href="https://motion.dev" target="_blank"><img width="50" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/motion.svg" alt="Motion" title="Motion"/></a></code>
 	<code><a href="https://tailwindcss.com" target="_blank"><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS"/></a></code>
+	<code><a href="https://redux.js.org" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" title="Redux"/></a></code>
 </p>
 
 <div align="center">
