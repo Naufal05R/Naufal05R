@@ -1,8 +1,6 @@
 <h1 align="left">Hello everyone 👋</h1>
 <h3 align="left">I'm Naufal Rabbani, a passionate Full-Stack Web Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naufal05r&label=Profile%20views&color=0e75b6&style=flat" alt="naufal05r" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal05r&margin-w=15&margin-h=15&column=-1&theme=juicyfresh" alt="naufal05r" /></a> </p>
 
 <h3 align="left">✨ A little bit about Me</h3>
