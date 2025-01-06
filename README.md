@@ -7,7 +7,7 @@
 
 - 🧑🏻‍💻 I’m currently working in the tech industry with [Monster Data Asia](https://monsterdata.asia) Company
 
-- 💻 Started the journey as a software developer since 2022
+- 💻 Started the journey as a software engineer since 2022
 
 - 📋 Fell in love with codes and enthusiast with the newest & latest technology. Self-taught on learning [React](https://react.dev) & [NextJS](https://nextjs.org)
 
