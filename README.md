@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal05r&margin-w=15&margin-h=15&column=-1&theme=juicyfresh" alt="naufal05r" /></a> </p>
 
-- 🔭 I’m currently working on [NEUROMAGE](https://neuromage.naufalrabbani.com)
+- 🔭 I’m currently working in the tech industry with [Monster Data Asia](https://monsterdata.asia) Company
 
 - 🌱 I’m currently learning **ThreeJS and MongoDB**
 
