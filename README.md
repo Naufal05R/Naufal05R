@@ -23,9 +23,10 @@
 
 <h3 align="left">📚 Tech Stacks</h3>
 <p align="left">
-	<code><a href="https://react.dev" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></a></code>
+	<code><a href="https://figma.com" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></a></code>
+	<code><a href="https://firebase.google.com" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></a></code>
 	<code><a href="https://react.dev" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></a></code>
-	<code><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d62e7a1d-844a-4499-8f6d-40529aae3b26"/><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6142eb6f-1392-41d4-88a8-98098cc4ca42"/><img width="50" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"/></picture></code>
+	<code><a href="https://nextjs.org" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d62e7a1d-844a-4499-8f6d-40529aae3b26"/><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6142eb6f-1392-41d4-88a8-98098cc4ca42"/><img width="50" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"/></picture></a></code>
 </p>
 
 
