@@ -35,7 +35,11 @@
 	<code><a href="https://redux.js.org" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" title="Redux"/></a></code>
 	<code><a href="https://nodejs.org" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" title="NodeJS"/></a></code>
 	<code><a href="https://jestjs.io" target="_blank"><img width="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" title="Jest"/></a></code>
+	<code><a href="https://cypress.io" target="_blank"><img width="50" src="https://github.com/user-attachments/assets/e6d7d98d-2e28-4a92-ad67-39f92f15a146" alt="Cypress" title="Cypress"/></a></code>
 </p>
+
+
+
 
 <div align="center">
 		<img width="50%" alt="Naufal05R's Stats" src="https://github-readme-stats.vercel.app/api?username=Naufal05R&theme=react&show_icons=true&hide_border=false&count_private=true" />
