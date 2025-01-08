@@ -13,7 +13,7 @@
 
 - 🏆 Expertise in Javascript & Typescript programming language. Building the entire application without using a single `any` data type.
 
-- 🐧 Familiar on both Mac & Linux as my daily driver OS
+- 🐧 Familiar with both Mac & Linux as my daily driver OS
 
 <h3 align="left">📚 Tech Stacks</h3>
 <p align="left">
